@@ -30,7 +30,7 @@ Through this hands-on experience, I gained practical insight into how Telstra's 
 👉 [View My Certificate (Forage)](https://theforage.com/)
 
 🔗 Program Link
-🌐 [Telstra Cybersecurity Simulation on Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/M6JGAwZ52SMusMEcK/RNhbu8QnDzthwynEf_M6JGAwZ52SMusMEcK_2a5j2u5aqp7mJmBZp_1748316299340_completion_certificate.pdf)
+🌐 [Telstra Cybersecurity Simulation on Forage](https://theforage.com/)
 
 💬 Personal Insight
 "Completing this simulation strengthened my practical skills in cybersecurity and incident response. I enjoyed tackling simulated real-world challenges and developing solutions, which motivates me to apply these skills in a professional setting."
